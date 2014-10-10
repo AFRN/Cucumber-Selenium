@@ -1,7 +1,8 @@
 # Simple project using Cucumber JVM with Selenium
 ## Requirements
-* gradle 1.8+
-* Eclipse Kepler+ with Junit
+### Tested with
+* gradle 1.8
+* Eclipse Kepler with Junit
 
 
 ### Building
